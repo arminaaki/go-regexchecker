@@ -8,7 +8,7 @@ Download and extract the [latest release](https://github.com/arminaaki/go-regexc
 
 ## Usage
 ```sh
-$ ./go-regexchecker -rule "/(?<month>\d{1,2})\/(?<day>\d{1,2})\/(?<year>\d{4})/"
+$ go-regexchecker -rule "/(?<month>\d{1,2})\/(?<day>\d{1,2})\/(?<year>\d{4})/"
 
 _______      ________     ______    ________   ____  ____
 |_   __ \    |_   __  |  .' ___  |  |_   __  | |_  _||_  _|
